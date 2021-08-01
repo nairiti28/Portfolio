@@ -1,0 +1,14 @@
+body{
+    background:burlywood;
+    font-size: 24px;
+    font-family: cursive;
+    color:black;
+}
+h4{
+    align-items: center;
+    color:blueviolet;
+}
+nav h5{
+    display:table-cell;
+    padding: 20px 25px;
+}

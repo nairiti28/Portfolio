@@ -1,0 +1,14 @@
+nav h5{
+    display:table-cell;
+    padding: 20px 25px;
+    outline:none;
+    }
+    .container{
+        font-family: cursive; color:darkblue;
+      }
+      body{
+        background:plum;
+       font-size: 26px;
+        font-family: monospace;
+        color: black; 
+      }

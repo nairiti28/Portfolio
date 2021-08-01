@@ -1,0 +1,12 @@
+body{
+        font-family: cursive;
+    font-size: 16px;
+}
+.container{
+      font-family: cursive; color:violet;
+    }
+    nav h5{
+      display:table-cell;
+      padding: 20px 25px;
+      outline:none;
+          }
